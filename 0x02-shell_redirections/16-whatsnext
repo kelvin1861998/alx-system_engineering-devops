@@ -1,2 +1,5 @@
 #!/bin/bash
 grep root /etc/passwd --after-context=3
+[master cacfac7] added 16-whatsnext script
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x02-shell_redirections/16-whatsnext
